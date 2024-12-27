@@ -1,6 +1,6 @@
 # 2024 2학기 DScover 메인 프로젝트
 2024-2  성균관대학교 데이터분석 학회 DScover 메인 프로젝트 E조
--Contributors
+##Contributors
 SKKU 강이레, 박서은, 박호진, 박효정
 
 ## 웹소설 흥행 요인 분석 프로젝트
